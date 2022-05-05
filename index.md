@@ -1,6 +1,7 @@
-<header>
+<head>
 <h1>Título da Página Principal</h1> 
- </header>
+ <title>portifolio</title>
+ </head>
 
 # Sabina Bernardes
 ## Desenvolvedora Android
