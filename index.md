@@ -1,7 +1,9 @@
-<head>
+<body>
+<header>
 <h1>Título da Página Principal</h1> 
  <title>portifolio</title>
- </head>
+ </header>
+ </body>
 
 # Sabina Bernardes
 ## Desenvolvedora Android
