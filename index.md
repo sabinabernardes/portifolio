@@ -1,9 +1,3 @@
-<body>
-<header>
-<h1>Título da Página Principal</h1> 
- <title>portifolio</title>
- </header>
- </body>
 
 # Sabina Bernardes
 ## Desenvolvedora Android
